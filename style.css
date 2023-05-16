@@ -356,6 +356,7 @@ nav {
   gap: 50px;
 }
 .all2 .allbox1 .box3 {
+  width: 229px;
   margin-bottom: 20px;
 }
 .all2 .allbox1 .box3 img {
@@ -383,10 +384,10 @@ nav {
 
 footer {
   width: 100%;
-  min-height: 50px;
+  height: 50px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   background: #111111;
   padding: 0px 10%;
 }

@@ -349,6 +349,7 @@ nav{
         justify-content: center;
         gap: 50px;
         .box3{
+            width: 229px;
             margin-bottom: 20px;
             img{
                 width: 100%;
@@ -377,10 +378,10 @@ nav{
 }
 footer{
     width: 100%;
-    min-height: 50px;
+    height: 50px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     background: #111111;
     padding: 0px 10%;
     p{
